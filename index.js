@@ -131,6 +131,7 @@ console.log(9007199254740992n + 1n);            // 9007199254740993n (Correct)
 let name = "hari"  // - double quotes
 let city = 'chennnai'  // - single quotes
 let message = `Hello, ${name}! Welcome to ${city}.`;  // - backticks for template literals )(Multi-line Support)(Variable Interpolation)
+//  this the (template.js ) full detils in there check the file 
 
 console.log(message)
 console.log(name)
