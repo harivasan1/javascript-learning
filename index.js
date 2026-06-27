@@ -122,3 +122,16 @@ console.log(9007199254740992n + 1n);            // 9007199254740993n (Correct)
 
 // ----------------------------------------------------------------------------------------------------------------------------------
 // 3 day curently studyit 
+
+// strings 
+// strings sequence of characters used to represent text data in javascript
+// strings can be defined using single quotes (' '), double quotes (" "), 
+// or backticks (` `) for template literals 
+
+let name = "hari"  // - double quotes
+let city = 'chennnai'  // - single quotes
+let message = `Hello, ${name}! Welcome to ${city}.`;  // - backticks for template literals )(Multi-line Support)(Variable Interpolation)
+
+console.log(message)
+console.log(name)
+console.log(city)
