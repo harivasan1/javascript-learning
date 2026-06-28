@@ -102,7 +102,8 @@ console.log(html)
 
 // --------------------------------------------------------------------------------------------------------------
 
-// next will contiue-- fuction call , loop and condtional  and nested , 
+// next will contiue-- fuction call , loop and condtional  and nested ,   same types used in the templated literal type 
+
 
 
 
